@@ -5,7 +5,7 @@
   <img src="perfil.gif width="100%">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,TensorFlow,MySQL" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,TensorFlow,mysql" />
 </p>
 
 
