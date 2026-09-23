@@ -3,9 +3,8 @@
   <img src="perfil.gif" width="100%">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,TensorFlow,mysql,git,postman,gcp" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,mysql,git,postman,gcp&theme=dark" />
 </p>
-
 
 
 <!--
