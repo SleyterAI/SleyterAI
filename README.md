@@ -1,11 +1,9 @@
-<h1 align="center">Hola, soy Sleyter 👋</h1>
 <h3 align="center">Software Developer</h3>
 <p align="center">
-  <!-- Aquí colocas tu banner animado SVG o GIF -->
-  <img src="perfil.gif width="100%">
+  <img src="perfil.gif" width="100%">
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,TensorFlow,mysql" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,python,ts,docker,TensorFlow,mysql,git,postman,gcp" />
 </p>
 
 
