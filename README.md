@@ -45,7 +45,19 @@
   <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </p>
-
+<p align="center">
+  <img src="https://img.shields.io/badge/-Java-transparent?logo=java&logoColor=ED8B00&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Spring-transparent?logo=spring&logoColor=6DB33F&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Angular-transparent?logo=angular&logoColor=DD0031&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Python-transparent?logo=python&logoColor=3776AB&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-TypeScript-transparent?logo=typescript&logoColor=3178C6&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Docker-transparent?logo=docker&logoColor=2496ED&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-TensorFlow-transparent?logo=tensorflow&logoColor=FF6F00&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-MySQL-transparent?logo=mysql&logoColor=4479A1&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Git-transparent?logo=git&logoColor=F05032&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-Postman-transparent?logo=postman&logoColor=FF6C37&style=flat" height="40" />
+  <img src="https://img.shields.io/badge/-GCP-transparent?logo=googlecloud&logoColor=4285F4&style=flat" height="40" />
+</p>
 <!--
 **SleyterAI/SleyterAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
