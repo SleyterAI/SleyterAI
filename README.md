@@ -1,6 +1,5 @@
-<h3 align="center">Software Developer</h3>
 <p align="center">
-  <img src="perfil.gif" width="100%">
+  <img src="perfil.gif" width="90%" height="90%">
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />
