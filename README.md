@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./space-cat.gif" width="100%" alt="Banner Animado" />
+  <img src="./space-cat.gif" width="50%" alt="Banner Animado" />
 </p>
 
 <!--
