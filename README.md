@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="perfil.gif" width="60%" height="60%">
+  <!--<img src="perfil.gif" width="60%" height="60%">-->
 </p>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java" />&nbsp;&nbsp;&nbsp;
